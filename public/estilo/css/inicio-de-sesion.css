@@ -1,0 +1,50 @@
+.login {
+  min-height: 100vh;
+}
+
+.bg-image {
+  background-image: url('/pic/inicio3.jpg');
+  background-size: cover;
+  background-position: center;
+}
+
+.login-heading {
+  font-weight: 300;
+  font-size: 50px;
+  text-align: center;
+  color: #fff;
+}
+
+.btn-login {
+  font-size: 0.9rem;
+  letter-spacing: 0.05rem;
+  padding: 0.75rem 1rem;
+}
+.d-flex{
+  background-color: #155284;
+}
+.form-check-label{
+  color: #fff;
+}
+
+            footer{
+         background-color: #fff;
+         position: fixed;
+         bottom: 0;
+         width: 100%;
+         height:20px;
+         background-image: url(https://boschferramentasbrasil.vteximg.com.br/arquivos/supergraphic.png);
+         background-repeat: no-repeat;
+}
+   
+.log{
+  padding-top: 10px;
+  background-image: url(https://boschferramentasbrasil.vteximg.com.br/arquivos/supergraphic.png);
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-color: #fff;
+  position: fixed;
+  width: 100%;
+  top: 0;
+  left: 0;
+  }
